@@ -1,5 +1,5 @@
-import React, {Component, PureComponent, ReactNode, ReactNodeArray} from "react";
-import {StyleSheet, AppRegistry, DeviceEventEmitter, View, Animated} from 'react-native';
+import React, {Component, PureComponent} from "react";
+import {StyleSheet, AppRegistry, DeviceEventEmitter, View} from 'react-native';
 type Props={
 
 }
